@@ -1,7 +1,9 @@
-package mx.qbits.kepler.validator.pbas;
+remopackage mx.qbits.kepler.validator.pbas;
 
 public class Archivo01 {
     public static void main(String...argv) {
-        System.out.println("conflicto numero 2");
+
+        System.out.println("Solucionamos conflcito");
+
     }
 }
