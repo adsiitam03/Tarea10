@@ -1,0 +1,845 @@
+2018-04-19 20:30:15:976 INFO  TestCuentaLineas:33 - Ejecutando la prueba
+2018-04-19 20:30:16:056 INFO  TestCuentaLineas:41 - Ejecutando la prueba
+2018-04-19 20:30:16:090 INFO  TestCuentaLineas:49 - Ejecutando la prueba
+2018-04-19 20:30:16:095 INFO  TestCuentaLineas:57 - Ejecutando la prueba
+2018-04-19 20:30:16:117 INFO  TestCuentaLineas:65 - Ejecutando la prueba
+2018-04-19 20:32:04:296 INFO  TestCuentaLineas:33 - Ejecutando la prueba
+2018-04-19 20:32:04:527 INFO  TestCuentaLineas:41 - Ejecutando la prueba
+2018-04-19 20:32:04:535 INFO  TestCuentaLineas:49 - Ejecutando la prueba
+2018-04-19 20:32:04:567 INFO  TestCuentaLineas:57 - Ejecutando la prueba
+2018-04-19 20:32:04:589 INFO  TestCuentaLineas:65 - Ejecutando la prueba
+2018-04-19 20:32:53:144 INFO  TestCuentaLineas:33 - Ejecutando la prueba
+2018-04-19 20:32:53:235 INFO  TestCuentaLineas:41 - Ejecutando la prueba
+2018-04-19 20:32:53:249 INFO  TestCuentaLineas:49 - Ejecutando la prueba
+2018-04-19 20:32:53:256 INFO  TestCuentaLineas:57 - Ejecutando la prueba
+2018-04-19 20:32:53:283 INFO  TestCuentaLineas:65 - Ejecutando la prueba
+2018-04-19 20:33:52:155 INFO  TestCuentaLineas:33 - Ejecutando la prueba
+2018-04-19 20:33:52:232 INFO  TestCuentaLineas:41 - Ejecutando la prueba
+2018-04-19 20:33:52:273 INFO  TestCuentaLineas:49 - Ejecutando la prueba
+2018-04-19 20:33:52:282 INFO  TestCuentaLineas:57 - Ejecutando la prueba
+2018-04-19 20:33:52:293 INFO  TestCuentaLineas:65 - Ejecutando la prueba
+2018-04-19 20:37:38:968 INFO  TestCuentaLineas:33 - Ejecutando la prueba
+2018-04-19 20:37:39:021 INFO  TestCuentaLineas:41 - Ejecutando la prueba
+2018-04-19 20:37:39:104 INFO  TestCuentaLineas:49 - Ejecutando la prueba
+2018-04-19 20:37:39:148 INFO  TestCuentaLineas:57 - Ejecutando la prueba
+2018-04-19 20:37:39:266 INFO  TestCuentaLineas:65 - Ejecutando la prueba
+2018-04-19 20:39:44:059 INFO  TestCuentaLineas:33 - Ejecutando la prueba
+2018-04-19 20:39:44:096 INFO  TestCuentaLineas:41 - Ejecutando la prueba
+2018-04-19 20:39:44:105 INFO  TestCuentaLineas:49 - Ejecutando la prueba
+2018-04-19 20:39:44:135 INFO  TestCuentaLineas:57 - Ejecutando la prueba
+2018-04-19 20:39:44:192 INFO  TestCuentaLineas:65 - Ejecutando la prueba
+2018-04-19 20:42:31:364 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 20:42:31:403 INFO  TestCuentaLineas:41 - Ejecutando la prueba 2
+2018-04-19 20:42:31:407 INFO  TestCuentaLineas:49 - Ejecutando la prueba 3
+2018-04-19 20:42:31:413 INFO  TestCuentaLineas:57 - Ejecutando la prueba 4
+2018-04-19 20:42:31:464 INFO  TestCuentaLineas:68 - Ejecutando la prueba 5
+2018-04-19 21:03:38:056 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 21:03:38:084 INFO  TestCuentaLineas:41 - Ejecutando la prueba 2
+2018-04-19 21:03:38:087 INFO  TestCuentaLineas:49 - Ejecutando la prueba 3
+2018-04-19 21:03:38:125 INFO  TestCuentaLineas:57 - Ejecutando la prueba 4
+2018-04-19 21:03:38:133 INFO  TestCuentaLineas:68 - Ejecutando la prueba 5
+2018-04-19 21:05:43:734 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 21:05:43:784 INFO  TestCuentaLineas:41 - Ejecutando la prueba 2
+2018-04-19 21:05:43:795 INFO  TestCuentaLineas:49 - Ejecutando la prueba 3
+2018-04-19 21:05:43:849 INFO  TestCuentaLineas:57 - Ejecutando la prueba 4
+2018-04-19 21:05:43:855 INFO  TestCuentaLineas:68 - Ejecutando la prueba 5
+2018-04-19 21:07:32:173 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 21:07:32:213 INFO  TestCuentaLineas:41 - Ejecutando la prueba 2
+2018-04-19 21:07:32:219 INFO  TestCuentaLineas:49 - Ejecutando la prueba 3
+2018-04-19 21:07:32:276 INFO  TestCuentaLineas:57 - Ejecutando la prueba 4
+2018-04-19 21:07:32:306 INFO  TestCuentaLineas:68 - Ejecutando la prueba 5
+2018-04-19 21:07:58:866 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 21:07:58:930 INFO  TestCuentaLineas:44 - Ejecutando la prueba 2
+2018-04-19 21:07:58:948 INFO  TestCuentaLineas:55 - Ejecutando la prueba 3
+2018-04-19 21:07:58:972 INFO  TestCuentaLineas:63 - Ejecutando la prueba 4
+2018-04-19 21:07:58:976 INFO  TestCuentaLineas:74 - Ejecutando la prueba 5
+2018-04-19 21:13:03:698 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 21:13:03:757 INFO  TestCuentaLineas:44 - Ejecutando la prueba 2
+2018-04-19 21:13:03:775 INFO  TestCuentaLineas:55 - Ejecutando la prueba 3
+2018-04-19 21:13:03:788 INFO  TestCuentaLineas:63 - Ejecutando la prueba 4
+2018-04-19 21:13:03:850 INFO  TestCuentaLineas:74 - Ejecutando la prueba 5
+2018-04-19 21:30:15:487 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 21:30:15:611 INFO  TestCuentaLineas:44 - Ejecutando la prueba 2
+2018-04-19 21:30:15:669 INFO  TestCuentaLineas:55 - Ejecutando la prueba 3
+2018-04-19 21:30:15:739 INFO  TestCuentaLineas:63 - Ejecutando la prueba 4
+2018-04-19 21:30:15:806 INFO  TestCuentaLineas:74 - Ejecutando la prueba 5
+2018-04-19 21:53:52:353 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 21:53:52:384 INFO  CuentaLineas:59 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art1.txt
+2018-04-19 21:53:52:387 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:389 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:410 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:412 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:419 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:420 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:444 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:444 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:451 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:452 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:457 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:458 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:489 INFO  TestCuentaLineas:44 - Ejecutando la prueba 2
+2018-04-19 21:53:52:491 INFO  CuentaLineas:59 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art2.txt
+2018-04-19 21:53:52:510 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:511 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:523 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:535 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:537 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:537 INFO  CuentaLineas:100 - Cuenta comentario normal
+2018-04-19 21:53:52:539 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:539 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:549 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:550 INFO  CuentaLineas:100 - Cuenta comentario normal
+2018-04-19 21:53:52:560 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:582 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:589 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:589 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:607 INFO  TestCuentaLineas:55 - Ejecutando la prueba 3
+2018-04-19 21:53:52:608 INFO  CuentaLineas:59 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art3.txt
+2018-04-19 21:53:52:610 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:613 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:623 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:625 INFO  CuentaLineas:83 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 21:53:52:643 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:644 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:649 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:652 INFO  CuentaLineas:100 - Cuenta comentario normal
+2018-04-19 21:53:52:658 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:674 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:676 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:676 INFO  CuentaLineas:100 - Cuenta comentario normal
+2018-04-19 21:53:52:692 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:692 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:693 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:693 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:694 INFO  TestCuentaLineas:63 - Ejecutando la prueba 4
+2018-04-19 21:53:52:694 INFO  CuentaLineas:59 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art4.txt
+2018-04-19 21:53:52:695 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:695 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:696 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:696 INFO  CuentaLineas:83 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 21:53:52:719 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:720 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:726 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:734 INFO  CuentaLineas:100 - Cuenta comentario normal
+2018-04-19 21:53:52:738 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:739 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:740 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:740 INFO  CuentaLineas:100 - Cuenta comentario normal
+2018-04-19 21:53:52:743 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:744 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:752 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:772 INFO  CuentaLineas:83 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 21:53:52:783 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:789 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:793 INFO  TestCuentaLineas:74 - Ejecutando la prueba 5
+2018-04-19 21:53:52:794 INFO  CuentaLineas:59 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art5.txt
+2018-04-19 21:53:52:795 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:797 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:820 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:825 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:838 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:838 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:839 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:840 INFO  CuentaLineas:83 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 21:53:52:843 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:848 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 21:53:52:850 INFO  CuentaLineas:80 - Cuenta lineas que no está vacía
+2018-04-19 21:53:52:851 INFO  CuentaLineas:107 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:451 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 22:04:48:459 INFO  CuentaLineas:74 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art1.txt
+2018-04-19 22:04:48:460 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:461 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:462 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:475 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:477 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:478 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:479 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:480 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:481 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:481 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:485 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:486 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:510 INFO  TestCuentaLineas:44 - Ejecutando la prueba 2
+2018-04-19 22:04:48:512 INFO  CuentaLineas:74 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art2.txt
+2018-04-19 22:04:48:521 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:525 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:526 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:531 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:533 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:578 INFO  CuentaLineas:111 - Cuenta comentario normal
+2018-04-19 22:04:48:579 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:580 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:584 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:588 INFO  CuentaLineas:111 - Cuenta comentario normal
+2018-04-19 22:04:48:588 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:588 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:593 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:595 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:610 INFO  TestCuentaLineas:55 - Ejecutando la prueba 3
+2018-04-19 22:04:48:611 INFO  CuentaLineas:74 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art3.txt
+2018-04-19 22:04:48:612 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:616 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:619 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:620 INFO  CuentaLineas:94 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 22:04:48:620 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:621 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:621 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:623 INFO  CuentaLineas:111 - Cuenta comentario normal
+2018-04-19 22:04:48:624 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:624 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:625 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:626 INFO  CuentaLineas:111 - Cuenta comentario normal
+2018-04-19 22:04:48:627 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:628 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:631 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:632 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:653 INFO  TestCuentaLineas:63 - Ejecutando la prueba 4
+2018-04-19 22:04:48:654 INFO  CuentaLineas:74 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art4.txt
+2018-04-19 22:04:48:654 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:655 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:656 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:656 INFO  CuentaLineas:94 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 22:04:48:657 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:658 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:663 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:672 INFO  CuentaLineas:111 - Cuenta comentario normal
+2018-04-19 22:04:48:675 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:675 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:676 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:676 INFO  CuentaLineas:111 - Cuenta comentario normal
+2018-04-19 22:04:48:677 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:677 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:689 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:690 INFO  CuentaLineas:94 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 22:04:48:691 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:697 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:733 INFO  TestCuentaLineas:74 - Ejecutando la prueba 5
+2018-04-19 22:04:48:755 INFO  CuentaLineas:74 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art5.txt
+2018-04-19 22:04:48:761 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:776 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:779 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:780 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:785 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:786 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:786 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:787 INFO  CuentaLineas:94 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 22:04:48:788 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:790 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:04:48:795 INFO  CuentaLineas:91 - Cuenta lineas que no está vacía
+2018-04-19 22:04:48:808 INFO  CuentaLineas:118 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:118 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 22:12:09:152 INFO  CuentaLineas:92 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art1.txt
+2018-04-19 22:12:09:153 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:155 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:156 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:158 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:160 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:165 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:176 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:178 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:183 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:187 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:188 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:189 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:211 INFO  TestCuentaLineas:44 - Ejecutando la prueba 2
+2018-04-19 22:12:09:215 INFO  CuentaLineas:92 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art2.txt
+2018-04-19 22:12:09:229 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:242 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:245 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:271 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:271 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:275 INFO  CuentaLineas:129 - Cuenta comentario normal
+2018-04-19 22:12:09:278 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:278 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:279 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:280 INFO  CuentaLineas:129 - Cuenta comentario normal
+2018-04-19 22:12:09:287 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:292 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:304 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:305 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:311 INFO  TestCuentaLineas:55 - Ejecutando la prueba 3
+2018-04-19 22:12:09:313 INFO  CuentaLineas:92 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art3.txt
+2018-04-19 22:12:09:315 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:321 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:329 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:330 INFO  CuentaLineas:112 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 22:12:09:330 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:340 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:341 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:342 INFO  CuentaLineas:129 - Cuenta comentario normal
+2018-04-19 22:12:09:342 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:343 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:343 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:346 INFO  CuentaLineas:129 - Cuenta comentario normal
+2018-04-19 22:12:09:354 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:355 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:356 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:357 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:382 INFO  TestCuentaLineas:63 - Ejecutando la prueba 4
+2018-04-19 22:12:09:382 INFO  CuentaLineas:92 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art4.txt
+2018-04-19 22:12:09:383 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:386 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:389 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:390 INFO  CuentaLineas:112 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 22:12:09:390 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:392 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:410 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:413 INFO  CuentaLineas:129 - Cuenta comentario normal
+2018-04-19 22:12:09:414 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:414 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:415 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:415 INFO  CuentaLineas:129 - Cuenta comentario normal
+2018-04-19 22:12:09:416 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:420 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:427 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:428 INFO  CuentaLineas:112 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 22:12:09:428 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:443 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:461 INFO  TestCuentaLineas:74 - Ejecutando la prueba 5
+2018-04-19 22:12:09:462 INFO  CuentaLineas:92 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art5.txt
+2018-04-19 22:12:09:463 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:464 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:475 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:476 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:478 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:478 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:479 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:480 INFO  CuentaLineas:112 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 22:12:09:480 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:485 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:12:09:659 INFO  CuentaLineas:109 - Cuenta lineas que no está vacía
+2018-04-19 22:12:09:662 INFO  CuentaLineas:136 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:385 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 22:21:31:417 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art1.txt
+2018-04-19 22:21:31:418 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:419 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:431 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:446 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:448 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:449 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:458 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:459 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:460 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:460 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:461 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:463 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:502 INFO  TestCuentaLineas:44 - Ejecutando la prueba 2
+2018-04-19 22:21:31:504 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art2.txt
+2018-04-19 22:21:31:518 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:529 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:530 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:533 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:537 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:540 INFO  CuentaLineas:135 - Cuenta comentario normal
+2018-04-19 22:21:31:542 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:549 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:550 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:550 INFO  CuentaLineas:135 - Cuenta comentario normal
+2018-04-19 22:21:31:551 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:554 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:566 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:566 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:574 INFO  TestCuentaLineas:55 - Ejecutando la prueba 3
+2018-04-19 22:21:31:600 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art3.txt
+2018-04-19 22:21:31:609 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:610 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:610 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:614 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 22:21:31:614 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:615 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:617 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:630 INFO  CuentaLineas:135 - Cuenta comentario normal
+2018-04-19 22:21:31:631 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:635 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:639 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:640 INFO  CuentaLineas:135 - Cuenta comentario normal
+2018-04-19 22:21:31:644 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:649 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:651 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:652 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:673 INFO  TestCuentaLineas:63 - Ejecutando la prueba 4
+2018-04-19 22:21:31:674 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art4.txt
+2018-04-19 22:21:31:675 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:677 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:681 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:682 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 22:21:31:683 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:697 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:705 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:706 INFO  CuentaLineas:135 - Cuenta comentario normal
+2018-04-19 22:21:31:707 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:707 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:707 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:708 INFO  CuentaLineas:135 - Cuenta comentario normal
+2018-04-19 22:21:31:713 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:714 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:733 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:739 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 22:21:31:740 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:752 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:766 INFO  TestCuentaLineas:74 - Ejecutando la prueba 5
+2018-04-19 22:21:31:766 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art5.txt
+2018-04-19 22:21:31:767 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:768 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:771 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:772 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:782 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:783 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:783 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:797 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 22:21:31:798 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:798 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 22:21:31:805 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 22:21:31:807 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:848 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 23:16:02:857 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art1.txt
+2018-04-19 23:16:02:858 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:859 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:864 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:869 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:871 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:872 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:874 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:876 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:878 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:878 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:879 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:880 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:894 INFO  TestCuentaLineas:44 - Ejecutando la prueba 2
+2018-04-19 23:16:02:897 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art2.txt
+2018-04-19 23:16:02:910 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:910 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:911 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:919 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:924 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:924 INFO  CuentaLineas:135 - Cuenta comentario normal
+2018-04-19 23:16:02:925 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:926 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:927 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:928 INFO  CuentaLineas:135 - Cuenta comentario normal
+2018-04-19 23:16:02:929 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:930 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:931 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:934 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:943 INFO  TestCuentaLineas:55 - Ejecutando la prueba 3
+2018-04-19 23:16:02:944 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art3.txt
+2018-04-19 23:16:02:946 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:949 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:949 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:950 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:16:02:951 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:957 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:958 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:959 INFO  CuentaLineas:135 - Cuenta comentario normal
+2018-04-19 23:16:02:961 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:962 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:963 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:963 INFO  CuentaLineas:135 - Cuenta comentario normal
+2018-04-19 23:16:02:967 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:968 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:975 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:976 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:987 INFO  TestCuentaLineas:63 - Ejecutando la prueba 4
+2018-04-19 23:16:02:987 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art4.txt
+2018-04-19 23:16:02:988 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:989 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:989 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:990 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:16:02:990 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:992 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:02:993 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:02:996 INFO  CuentaLineas:135 - Cuenta comentario normal
+2018-04-19 23:16:03:000 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:03:000 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:03:001 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:03:002 INFO  CuentaLineas:135 - Cuenta comentario normal
+2018-04-19 23:16:03:002 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:03:003 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:03:017 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:03:018 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:16:03:019 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:03:027 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:03:034 INFO  TestCuentaLineas:74 - Ejecutando la prueba 5
+2018-04-19 23:16:03:035 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art5.txt
+2018-04-19 23:16:03:039 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:03:043 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:03:044 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:03:049 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:03:051 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:03:055 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:03:056 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:03:059 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:16:03:060 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:03:062 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:16:03:071 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:16:03:077 INFO  CuentaLineas:142 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:645 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 23:44:33:667 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art1.txt
+2018-04-19 23:44:33:670 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:672 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:677 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:678 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:684 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:685 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:686 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:687 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:689 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:689 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:698 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:699 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:716 INFO  TestCuentaLineas:44 - Ejecutando la prueba 2
+2018-04-19 23:44:33:719 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art2.txt
+2018-04-19 23:44:33:734 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:735 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:736 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:743 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:744 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:749 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:44:33:750 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:751 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:752 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:755 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:44:33:759 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:760 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:766 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:768 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:775 INFO  TestCuentaLineas:55 - Ejecutando la prueba 3
+2018-04-19 23:44:33:778 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art3.txt
+2018-04-19 23:44:33:779 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:782 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:783 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:783 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:44:33:784 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:791 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:792 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:794 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:44:33:799 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:804 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:806 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:807 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:44:33:807 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:807 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:811 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:814 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:824 INFO  TestCuentaLineas:63 - Ejecutando la prueba 4
+2018-04-19 23:44:33:826 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art4.txt
+2018-04-19 23:44:33:826 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:827 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:832 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:834 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:44:33:839 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:840 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:843 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:844 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:44:33:845 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:845 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:846 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:846 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:44:33:848 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:849 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:852 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:853 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:44:33:853 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:861 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:872 INFO  TestCuentaLineas:74 - Ejecutando la prueba 5
+2018-04-19 23:44:33:873 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art5.txt
+2018-04-19 23:44:33:875 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:875 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:876 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:877 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:883 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:884 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:886 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:888 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:44:33:889 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:891 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:44:33:902 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:44:33:907 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:459 INFO  TestCuentaLineas:33 - Ejecutando la prueba 1
+2018-04-19 23:45:13:471 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art1.txt
+2018-04-19 23:45:13:472 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:473 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:475 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:484 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:486 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:487 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:490 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:491 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:493 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:494 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:494 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:497 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:525 INFO  TestCuentaLineas:44 - Ejecutando la prueba 2
+2018-04-19 23:45:13:529 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art2.txt
+2018-04-19 23:45:13:535 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:536 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:536 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:547 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:549 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:553 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:45:13:554 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:558 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:560 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:561 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:45:13:561 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:562 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:562 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:563 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:577 INFO  TestCuentaLineas:55 - Ejecutando la prueba 3
+2018-04-19 23:45:13:578 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art3.txt
+2018-04-19 23:45:13:582 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:586 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:591 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:592 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:45:13:592 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:599 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:599 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:607 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:45:13:607 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:608 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:608 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:608 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:45:13:609 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:609 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:609 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:609 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:615 INFO  TestCuentaLineas:63 - Ejecutando la prueba 4
+2018-04-19 23:45:13:620 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art4.txt
+2018-04-19 23:45:13:623 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:624 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:627 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:629 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:45:13:629 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:630 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:630 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:637 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:45:13:637 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:639 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:640 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:642 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:45:13:643 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:644 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:647 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:648 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:45:13:655 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:661 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:671 INFO  TestCuentaLineas:74 - Ejecutando la prueba 5
+2018-04-19 23:45:13:672 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art5.txt
+2018-04-19 23:45:13:673 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:674 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:677 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:679 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:680 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:681 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:682 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:688 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:45:13:689 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:698 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:701 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:702 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:711 INFO  TestCuentaLineas:85 - Ejecutando la prueba extrema
+2018-04-19 23:45:13:712 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art6.txt
+2018-04-19 23:45:13:714 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:715 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:715 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:721 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:722 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:723 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:723 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:723 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:45:13:726 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:728 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:45:13:729 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:45:13:732 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:484 INFO  TestCuentaLineas:37 - Ejecutando la prueba 1
+2018-04-19 23:51:40:501 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art1.txt
+2018-04-19 23:51:40:504 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:508 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:513 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:514 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:516 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:519 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:521 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:524 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:525 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:531 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:532 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:534 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:544 INFO  TestCuentaLineas:49 - Ejecutando la prueba 2
+2018-04-19 23:51:40:548 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art2.txt
+2018-04-19 23:51:40:558 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:569 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:570 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:575 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:576 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:577 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:51:40:578 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:582 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:583 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:585 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:51:40:586 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:593 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:594 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:594 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:607 INFO  TestCuentaLineas:60 - Ejecutando la prueba 3
+2018-04-19 23:51:40:608 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art3.txt
+2018-04-19 23:51:40:609 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:609 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:610 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:611 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:51:40:611 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:615 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:618 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:618 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:51:40:621 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:622 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:623 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:628 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:51:40:629 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:629 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:630 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:630 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:639 INFO  TestCuentaLineas:68 - Ejecutando la prueba 4
+2018-04-19 23:51:40:643 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art4.txt
+2018-04-19 23:51:40:644 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:646 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:647 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:647 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:51:40:648 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:648 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:649 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:651 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:51:40:652 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:657 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:657 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:658 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-19 23:51:40:660 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:663 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:675 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:678 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:51:40:679 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:685 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:692 INFO  TestCuentaLineas:79 - Ejecutando la prueba 5
+2018-04-19 23:51:40:695 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art5.txt
+2018-04-19 23:51:40:697 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:701 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:703 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:711 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:712 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:713 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:714 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:715 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:51:40:715 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:718 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:724 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:735 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:741 INFO  TestCuentaLineas:90 - Ejecutando la prueba extrema
+2018-04-19 23:51:40:742 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art6.txt
+2018-04-19 23:51:40:750 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:754 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:755 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:755 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:756 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:756 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:759 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:759 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-19 23:51:40:760 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:772 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-19 23:51:40:772 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-19 23:51:40:774 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:038 INFO  TestCuentaLineas:27 - Ejecutando la prueba 1
+2018-04-20 00:06:50:072 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art1.txt
+2018-04-20 00:06:50:079 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:080 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:080 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:086 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:088 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:090 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:094 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:096 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:097 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:097 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:098 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:103 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:126 INFO  TestCuentaLineas:38 - Ejecutando la prueba 2
+2018-04-20 00:06:50:131 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art2.txt
+2018-04-20 00:06:50:149 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:150 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:151 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:156 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:162 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:162 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-20 00:06:50:168 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:170 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:175 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:176 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-20 00:06:50:183 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:183 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:184 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:184 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:191 INFO  TestCuentaLineas:49 - Ejecutando la prueba 3
+2018-04-20 00:06:50:194 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art3.txt
+2018-04-20 00:06:50:206 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:206 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:206 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:212 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-20 00:06:50:214 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:214 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:223 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:223 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-20 00:06:50:225 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:226 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:227 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:227 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-20 00:06:50:228 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:235 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:235 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:239 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:245 INFO  TestCuentaLineas:57 - Ejecutando la prueba 4
+2018-04-20 00:06:50:247 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art4.txt
+2018-04-20 00:06:50:253 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:253 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:253 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:254 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-20 00:06:50:254 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:254 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:254 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:266 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-20 00:06:50:269 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:271 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:271 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:272 INFO  CuentaLineas:137 - Cuenta comentario normal
+2018-04-20 00:06:50:277 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:278 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:285 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:286 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-20 00:06:50:291 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:295 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:309 INFO  TestCuentaLineas:68 - Ejecutando la prueba 5
+2018-04-20 00:06:50:309 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art5.txt
+2018-04-20 00:06:50:315 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:315 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:315 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:316 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:316 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:316 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:316 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:316 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-20 00:06:50:317 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:317 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:317 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:317 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:339 INFO  TestCuentaLineas:79 - Ejecutando la prueba extrema
+2018-04-20 00:06:50:340 INFO  CuentaLineas:98 - Cuenta lineas del archivo /home/monica/adsi/Tarea10/art6.txt
+2018-04-20 00:06:50:361 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:362 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:362 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:370 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:371 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:373 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:374 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:378 INFO  CuentaLineas:118 - Cuenta lineas que están en bloque de comentarios
+2018-04-20 00:06:50:379 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:381 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios
+2018-04-20 00:06:50:385 INFO  CuentaLineas:115 - Cuenta lineas que no está vacía
+2018-04-20 00:06:50:389 INFO  CuentaLineas:145 - Cuenta lineas de código sin comentarios

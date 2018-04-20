@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.5.1" timestamp="2018-04-19T23:52:34.935">
+<file name="/home/monica/adsi/Tarea10/src/main/java/mx/com/itam/adsi/ejercicio/CuentaLineas.java">
+<violation beginline="119" endline="119" begincolumn="27" endcolumn="27" rule="EmptyStatementNotInLoop" ruleset="Empty Code" package="mx.com.itam.adsi.ejercicio" class="CuentaLineas" method="cuentaL" externalInfoUrl="https://pmd.github.io/pmd-5.5.1/pmd-java/rules/java/empty.html#EmptyStatementNotInLoop" priority="3">
+An empty statement (semicolon) not part of a loop
+</violation>
+</file>
+</pmd>
